@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "url": "https://github.com/zent1216/leakcall-releases/releases/download/v1.0.7/leakcall.apk",
-  "notes": "업데이트 테스트용 배포 (기능 변경 없음)"
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "url": "https://github.com/zent1216/leakcall-releases/releases/download/v1.0.8/leakcall.apk",
+  "notes": "오버레이 권한 미허용 시 전화 수신 크래시 수정 + 앱 아이콘(물방울+수화기) 적용 + 전화번호 오탐 제거"
 }
